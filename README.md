@@ -67,7 +67,7 @@ mvn test
 
 ---
 
-📄 Relatório de Testes
+## 📄 Relatório de Testes
 
 Após execução, o relatório HTML será gerado em:
 
@@ -77,7 +77,7 @@ Abra esse arquivo com seu navegador para visualizar o resultado dos testes.
 
 ---
 
-🧪 Exemplo de Cenário
+## 🧪 Exemplo de Cenário
 
 Cenário: Adicionar múltiplos produtos ao carrinho e finalizar compra
 
