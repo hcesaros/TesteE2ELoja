@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-06T13:43:36 BRT" name="Surefire suite" finished-at="2025-05-06T13:43:58 BRT" duration-ms="22079">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@5f9b2141]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2025-05-06T13:43:36 BRT" name="Surefire test" finished-at="2025-05-06T13:43:58 BRT" duration-ms="22079">
+      <class name="runner.TestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.TestRunner@5f9b2141]" started-at="2025-05-06T13:43:36 BRT" name="setUpClass" finished-at="2025-05-06T13:43:36 BRT" duration-ms="190" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@35d26ad2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@5f9b2141]" started-at="2025-05-06T13:43:36 BRT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-05-06T13:43:41 BRT" duration-ms="4292" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Usuário realiza compra com sucesso"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Fluxo de checkout no e-commerce SauceDemo"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@5f9b2141]" started-at="2025-05-06T13:43:41 BRT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-05-06T13:43:44 BRT" duration-ms="3004" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Usuário realiza login com sucesso"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Fluxo de checkout no e-commerce SauceDemo"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@5f9b2141]" started-at="2025-05-06T13:43:44 BRT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-05-06T13:43:47 BRT" duration-ms="3249" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Adicionar múltiplos produtos ao carrinho e finalizar compra"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Fluxo de checkout no e-commerce SauceDemo"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@5f9b2141]" started-at="2025-05-06T13:43:47 BRT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-05-06T13:43:50 BRT" duration-ms="2936" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Tentativa de login com usuário inválido"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Fluxo de checkout no e-commerce SauceDemo"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@5f9b2141]" started-at="2025-05-06T13:43:50 BRT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-05-06T13:43:53 BRT" duration-ms="2948" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Tentativa de login com senha inválida"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Fluxo de checkout no e-commerce SauceDemo"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@5f9b2141]" started-at="2025-05-06T13:43:53 BRT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-05-06T13:43:56 BRT" duration-ms="3155" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Tentativa de checkout sem preencher os dados obrigatórios"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Fluxo de checkout no e-commerce SauceDemo"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.TestRunner@5f9b2141]" started-at="2025-05-06T13:43:56 BRT" name="tearDownClass" finished-at="2025-05-06T13:43:58 BRT" duration-ms="2287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.TestRunner -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
