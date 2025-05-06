@@ -57,9 +57,7 @@ src
 - Maven instalado
 - Google Chrome e ChromeDriver compatíveis com a versão do navegador
 
-### Comandos
-
-## Clonar o repositório
+### Clonar o repositório
 git clone https://github.com/seu-usuario/seu-repo.git
 cd seu-repo
 
