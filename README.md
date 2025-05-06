@@ -59,11 +59,11 @@ src
 
 ### Comandos
 
-# Clonar o repositório
+## Clonar o repositório
 git clone https://github.com/seu-usuario/seu-repo.git
 cd seu-repo
 
-# Executar os testes
+### Executar os testes
 
 mvn test
 
